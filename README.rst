@@ -25,3 +25,8 @@ JS ::
 
 
 See index.html for more info.
+
+Dependencies
+============
+
+jquery.mousewheel.js
